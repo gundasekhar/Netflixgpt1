@@ -1,8 +1,9 @@
+import Body from "./components/Body"
+
 function App() {
   return (
     <>
-      <h1>Hello World</h1>
-      <h1>vite + react</h1>
+      <Body />
     </>
   )
 }
